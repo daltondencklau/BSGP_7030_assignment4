@@ -1,0 +1,6 @@
+name: 7030_class_2
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+prefix: /users/PAS3421/dencklau1/.conda/envs/7030_class_2

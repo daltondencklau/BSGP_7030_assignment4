@@ -1,0 +1,14 @@
+name: assignment4
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - seaborn
+  - statsmodels
+  - jupyter
+prefix: /users/PAS3421/dencklau1/.conda/envs/assignment4
