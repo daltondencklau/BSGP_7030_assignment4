@@ -1,5 +1,4 @@
-# BSGP_7030_assignment4_stats_script
-# BSGP 7030 – Assignment 4
+## BSGP_7030_assignment4_stats_script
 
 Statistical analysis in Python following the SciPy Lecture Notes. Done as part of BSGP 7030 at Ohio State.
 
