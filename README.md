@@ -118,4 +118,5 @@ This is a course assignment repository. If you fork it for practice:
 
 ## Contact
 
-Course: **BSGP 7030 — Assignment 4**. For questions about this submission, contact the repository owner / course instructor as appropriate.
+Course: **BSGP 7030 — Assignment 4**.
+
